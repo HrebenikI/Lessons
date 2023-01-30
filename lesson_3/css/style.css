@@ -1,0 +1,40 @@
+/* {
+    border: 1px solid green;
+} */
+a {
+    color: yellowgreen;
+}
+
+.block {
+    color: crimson;
+}
+
+#list { 
+    color: blue;
+}
+div.block {
+    color: purple;
+}
+
+.point.text {
+    color: darkgreen;
+}
+
+.text,.numbers {
+    color: tomato;
+}
+
+.plus + p {
+    color: blueviolet;
+}
+
+.tilda ~ p {
+    color: green;
+}
+
+.first li { color: palegreen;}
+
+.more > p {
+color: brown;
+}
+
