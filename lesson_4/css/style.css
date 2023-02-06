@@ -1,0 +1,78 @@
+/* @import url("https://fonts.googleapis.com/css?family=Poppins:300,500,700&display=swap");
+
+body {
+    font-family: "Poppins";
+}*/
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+ font-family: 'Arial';
+ font-size: 28px;
+ text-indent: 20px;
+}
+
+h1 {
+    font-family: 'Lucida Sans', sans-serif;
+    font-size: 35px;
+    color: rgba(0, 0, 255, 0.781);
+    text-align: end;
+    text-transform: capitalize;
+}
+
+.text {
+    font-family:'Arial Narrow Bold';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 2;
+}
+
+.text mark{
+    letter-spacing: 25px;
+}
+
+.history,.list {
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.history {
+    text-transform: uppercase;
+}
+
+.history + div {
+    font-size: 20px;
+    color: brown;
+}
+
+.infrastruktura {
+font-size: 34px;
+font-style: italic;
+font-weight: 700;
+color: rgba(128, 128, 128, 0.709);
+text-shadow: 2px 2px 6px #000;
+}
+
+
+h2 {
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+div.ski {
+    text-decoration: line-through;
+}
+
+ol {
+    color: rgba(137, 43, 226, 0.352);
+    text-decoration: underline;
+}
+
+.selo {
+    font-size: 24px;
+    word-spacing: 17px;
+}
